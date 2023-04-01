@@ -1,10 +1,10 @@
 body {
     text-align: center;
-    background-color: #fac898;
+    background-color: #a8b9b975;
 }
 
 a, button {
-    background: linear-gradient(to bottom right, #ef4765, #ff9a5a);
+    background: linear-gradient(to bottom right, #4d5353, #097399d7);
     border: 0;
     border-radius: 12px;
     color: #ffffff;
